@@ -7,4 +7,7 @@
 
 - [x] 防呆機制 !
 
+<h2>執行結果</h2>
+
+![image](https://github.com/Cheng-Yen1230/Final-Password/blob/master/cmd.jpg?raw=true)
 
